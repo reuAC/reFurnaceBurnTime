@@ -1,0 +1,7 @@
+name: reFurnaceBurnTime
+version: '${project.version}'
+main: org.reuac.refurnaceburntime.ReFurnaceBurnTime
+api-version: '1.13'
+commands:
+  refurnaceburntime:
+    permission: refurnaceburntime.main
